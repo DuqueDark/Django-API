@@ -1,6 +1,7 @@
 # <img align="center" width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img align="center" width="100" height="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
 
-Primeira API feita em Django(python), Uma API de Tarefas com simples
+Primeira API feita em Django(python), Uma API de Tarefas simples<br>
+Obs.: O banco utilizado foi o sqlite que por padrão o django cria para teste em debug
 
 #
 
