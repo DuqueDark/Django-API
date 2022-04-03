@@ -34,6 +34,6 @@ Obs.: Todas as URLs retornam a mesma coisa somente foram criadas de diferentes m
 * todo/v2/{id}/ - DELETE: Exclui a tarefa indicada
 * todo/v3/{id}/ - DELETE: Exclui a tarefa indicada
 
-DOCUMENTAÇÃO CONSULTADA
-<a href="https://www.django-rest-framework.org/">DJANGO REST FRAMEWORK</a>
+DOCUMENTAÇÃO CONSULTADA <BR>
+* <a href="https://www.django-rest-framework.org/">DJANGO REST FRAMEWORK</a>
 
