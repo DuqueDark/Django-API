@@ -18,22 +18,31 @@ Obs.: Todas as URLs retornam a mesma coisa somente foram criadas de diferentes m
 * todo/v2/ - GET: Retorna uma lista de tarefas
 * todo/v3/ - GET: Retorna uma lista de tarefas
 
+#
+
 * todo/v1/ - POST: Adiciona uma nova tarefa a lista
 * todo/v2/ - POST: Adiciona uma nova tarefa a lista
 * todo/v3/ - POST: Adiciona uma nova tarefa a lista
 
+#
+
 * todo/v1/{id}/ - GET: Retorna uma tarefa expecifica
 * todo/v2/{id}/ - GET: Retorna uma tarefa expecifica
 * todo/v3/{id}/ - GET: Retorna uma tarefa expecifica
+ 
+#
 
 * todo/v1/{id}/ - PUT: Altera uma tarefa indicada
 * todo/v2/{id}/ - PUT: Altera uma tarefa indicada
 * todo/v3/{id}/ - PUT: Altera uma tarefa indicada
+ 
+#
 
 * todo/v1/{id}/ - DELETE: Exclui a tarefa indicada
 * todo/v2/{id}/ - DELETE: Exclui a tarefa indicada
 * todo/v3/{id}/ - DELETE: Exclui a tarefa indicada
-
+<BR>
+<BR>
 DOCUMENTAÇÃO CONSULTADA <BR>
-* <a href="https://www.django-rest-framework.org/">DJANGO REST FRAMEWORK</a>
+ <a href="https://www.django-rest-framework.org/">DJANGO REST FRAMEWORK</a>
 
